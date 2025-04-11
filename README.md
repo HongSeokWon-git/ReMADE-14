@@ -26,11 +26,19 @@
 | 13       | Deauthentication + Kr00k                        |
 | 14       | SSDP + Rogue AP                                 |
 
+## Currently Available (Sample)
+
+On GitHub, the following samples are currently available:
+
+- **Scenario 1 ~ Scenario 3**
+- Each scenario folder contains **5 CSV files** (total 250,000 rows per scenario)
+- Full dataset (all 14 scenarios) is available via external download
+
 ## Dataset Download
 
 You can download the full dataset from the following link:
 
-[Download ReMADE-14 Dataset](https://naver.me/FO9k3gcO)
+[Download ReMADE-14 Dataset(.csv)](https://naver.me/FO9k3gcO)
 
 ## Contact
 
