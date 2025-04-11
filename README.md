@@ -4,10 +4,10 @@
 
 ## Dataset Structure
 
-Each scenario contains:
-- `.pcap` file with merged multi-stage attack traffic  
-- `metadata.txt` with stage-wise annotations (start time, end time, type, description)  
-- (Optional) `.csv` version for ML/DL model training  
+- Each MSA scenario is saved as a folder
+- Each folder contains **multiple `.csv` files**, each holding **50,000 records**
+- Each row includes preprocessed features and a corresponding label (e.g., normal or specific attack stage)
+- Stage-wise metadata is provided separately for reference
 
 | Scenario | Attack Stages                                  |
 |----------|-------------------------------------------------|
@@ -32,3 +32,6 @@ You can download the full dataset from the following link:
 
 🔗 [Download ReMADE-14 Dataset](https://naver.me/FO9k3gcO)
 
+## Contact
+
+E-mail : sw.hong@yonsei.ac.kr
