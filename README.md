@@ -30,7 +30,7 @@
 
 You can download the full dataset from the following link:
 
-🔗 [Download ReMADE-14 Dataset](https://naver.me/FO9k3gcO)
+[Download ReMADE-14 Dataset](https://naver.me/FO9k3gcO)
 
 ## Contact
 
