@@ -34,7 +34,7 @@ On GitHub, the following samples are currently available:
 - Each scenario folder contains **5 CSV files** (total 250,000 rows per scenario)
 - Full dataset (all 14 scenarios) is available via external download
 
-## Dataset Download
+## Full Dataset Download
 
 You can download the full dataset from the following link:
 
